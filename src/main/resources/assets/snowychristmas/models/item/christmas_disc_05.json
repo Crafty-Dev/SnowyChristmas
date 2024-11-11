@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "snowychristmas:item/christmas_disc_05"
+  }
+}

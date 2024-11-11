@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "de.crafty.snowychristmas.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "server.level.MixinServerLevel",
+    "world.item.MixinJukeboxSongs",
+    "world.level.biome.MixinBiome"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

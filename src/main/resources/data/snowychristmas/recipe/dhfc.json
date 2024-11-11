@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "SFS",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:spruce_sapling"
+    },
+    "S": {
+      "item": "minecraft:emerald"
+    },
+    "F": {
+      "item": "minecraft:minecart"
+    }
+  },
+  "result": {
+    "item": "snowychristmas:christmas_disc_03",
+    "count": 1
+  }
+}

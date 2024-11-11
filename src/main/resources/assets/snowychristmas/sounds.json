@@ -1,0 +1,50 @@
+{
+  "christmas_disc.last_christmas": {
+    "sounds": [
+      {
+        "name": "snowychristmas:records/last_christmas",
+        "stream": true
+      }
+    ]
+  },
+  "christmas_disc.aiwfciy": {
+    "sounds": [
+      {
+        "name": "snowychristmas:records/aiwfciy",
+        "stream": true
+      }
+    ]
+  },
+  "christmas_disc.dhfc": {
+    "sounds": [
+      {
+        "name": "snowychristmas:records/dhfc",
+        "stream": true
+      }
+    ]
+  },
+  "christmas_disc.ibtlallc": {
+    "sounds": [
+      {
+        "name": "snowychristmas:records/ibtlallc",
+        "stream": true
+      }
+    ]
+  },
+  "christmas_disc.utt": {
+    "sounds": [
+      {
+        "name": "snowychristmas:records/utt",
+        "stream": true
+      }
+    ]
+  },
+  "christmas_disc.gzuz": {
+    "sounds": [
+      {
+        "name": "snowychristmas:records/gzuz",
+        "stream": true
+      }
+    ]
+  }
+}

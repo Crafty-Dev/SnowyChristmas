@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "SFS",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:emerald"
+    },
+    "S": {
+      "item": "minecraft:diamond"
+    },
+    "F": {
+      "item": "minecraft:snowball"
+    }
+  },
+  "result": {
+    "item": "snowychristmas:christmas_disc_01",
+    "count": 1
+  }
+}

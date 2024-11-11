@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "SFS",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:ice"
+    },
+    "F": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "snowychristmas:christmas_disc_06",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "SFS",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:spider_eye"
+    },
+    "S": {
+      "item": "minecraft:snowball"
+    },
+    "F": {
+      "item": "minecraft:carved_pumpkin"
+    }
+  },
+  "result": {
+    "item": "snowychristmas:christmas_disc_04",
+    "count": 1
+  }
+}
